@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 - :man_technologist: I am a Frontend Developer based in Russia :world_map:
-- :godmode: At the age of 30, I believe that the best is yet to come, and I'm excited for what lies ahead :rage3:
+- :godmode: At the age of 31, I believe that the best is yet to come, and I'm excited for what lies ahead :rage3:
 - :man_student: Although I studied civil engineering, my career took a turn, and I ended up working as a rescuer after graduation :man_firefighter:
 - :climbing_man: To keep myself fit and active, I find solace in the thrill of rock climbing, eagerly anticipating the day I conquer my first mountain :mountain:
 - :game_die: When I have some free time, I indulge in the immersive world of tabletop role-playing games. There's something magical about crafting unique and captivating stories :scroll:
